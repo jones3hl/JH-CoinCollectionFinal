@@ -9,3 +9,7 @@
 ### Completed CSS styles for navigation bar
 
 ### Worked on grid layout for homepage
+
+### Added content to website and worked on responsive design
+
+### Waiting on final written info before completing
